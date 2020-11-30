@@ -1,12 +1,7 @@
-# SAA_OOP_tema7
-
-| Фамилия, имя студента | Группа    | Дисциплина  |Тема                              
-| --------------------- |:---------:| ------------|:-----------------------:|
-| Сембенова Асель       | ИС-302    | ООП         |7. Сериализация объектов |
-
-Вывод в консоли:
-![ScreenShot](console.png)
-Скриншоты кода в NetBeans:
-![ScreenShot](source-iphone.png)
-![ScreenShot](source-seria1.png)
-![ScreenShot](source-seria2.png)
+3-х оконное приложение с поздравлением и выбором разных языков.
+Скриншоты:
+![ScreenShot](1.png)
+![ScreenShot](2.png)
+![ScreenShot](3.png)
+![ScreenShot](4.png)
+![ScreenShot](5.png)
